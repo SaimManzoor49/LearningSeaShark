@@ -1,5 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System.Net.Http.Headers;
+
 namespace Learning{
     class Methords
     {
@@ -67,6 +69,46 @@ namespace Learning{
             //{
             //    Console.WriteLine(c);
             //}
+
+            //////////////////////////Conditional Statments///////////////////
+
+          //Random ran = new Random();
+          //int i = ran.Next(1,10);
+
+            //if (i > 5)
+            //{
+            //    Console.WriteLine("i>5 : i="+i);
+            //}else if (i < 5)
+            //{
+            //    Console.WriteLine("i<5 : i=" + i);
+            //}
+
+/*            switch (i)
+            { 
+                case 0:
+                  Console.WriteLine("0");
+                    break;
+                case 1:
+                    Console.WriteLine("1");
+                    break;
+                case 2:
+                    Console.WriteLine("2");
+                    break;
+                case 3:
+                    Console.WriteLine("3");
+                    break;
+                case 4:
+                    Console.WriteLine("4");
+                    break;
+                case 5:
+                    Console.WriteLine("5");
+                    break;
+                default:
+                    Console.WriteLine("i>5");
+                    break;
+
+            }
+                    */
 
             Console.ReadKey(); 
         }
