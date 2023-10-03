@@ -12,3 +12,17 @@ C:\Saim\C#\class\C#(.net)\RegistrationForm\Methords\Methords\obj\Debug\net6.0\re
 C:\Saim\C#\class\C#(.net)\RegistrationForm\Methords\Methords\obj\Debug\net6.0\Methords.pdb
 C:\Saim\C#\class\C#(.net)\RegistrationForm\Methords\Methords\obj\Debug\net6.0\Methords.genruntimeconfig.cache
 C:\Saim\C#\class\C#(.net)\RegistrationForm\Methords\Methords\obj\Debug\net6.0\ref\Methords.dll
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\Methords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\Methords.AssemblyInfoInputs.cache
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\Methords.AssemblyInfo.cs
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\Methords.csproj.CoreCompileInputs.cache
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\Methords.dll
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\refint\Methords.dll
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\Methords.pdb
+C:\Saim\C#\seaShark\Methords\Methords\bin\Debug\net6.0\Methords.exe
+C:\Saim\C#\seaShark\Methords\Methords\bin\Debug\net6.0\Methords.deps.json
+C:\Saim\C#\seaShark\Methords\Methords\bin\Debug\net6.0\Methords.runtimeconfig.json
+C:\Saim\C#\seaShark\Methords\Methords\bin\Debug\net6.0\Methords.dll
+C:\Saim\C#\seaShark\Methords\Methords\bin\Debug\net6.0\Methords.pdb
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\Methords.genruntimeconfig.cache
+C:\Saim\C#\seaShark\Methords\Methords\obj\Debug\net6.0\ref\Methords.dll
